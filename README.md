@@ -1,6 +1,8 @@
 # Ecommeerce_GMV_Analysis
 # 电商用户行为分析与 GMV 优化项目 (E-commerce User Behavior & GMV Optimization)
 
+## 项目链接：https://tianchi.aliyun.com/dataset/154063
+
 ## 📌 项目背景
 本项目基于某电商平台的 10 万条用户行为数据，旨在通过数据分析拆解 GMV（商品交易总额），寻找影响用户转化的关键因素。
 项目核心目标遵循公式：**GMV = UV (独立访客) * 转化率 * 客单价**。
